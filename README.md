@@ -30,36 +30,6 @@ The dataset used in this analysis is sourced from a survey conducted on job sati
     - The results of the statistical tests and regression models are interpreted.
     - Insights and trends are discussed, highlighting the impact of degree attainment on job satisfaction.
 
-## Requirements
-
-To run the notebook, you need the following packages:
-- `pandas`
-- `numpy`
-- `matplotlib`
-- `seaborn`
-- `scipy`
-- `statsmodels`
-
-You can install these packages using pip:
-```bash
-pip install pandas numpy matplotlib seaborn scipy statsmodels
-```
-
-## Usage
-
-1. Clone the repository:
-```bash
-git clone https://github.com/Drew-9960/Statistical-Analysis.git
-```
-2. Navigate to the directory:
-```bash
-cd Statistical-Analysis
-```
-3. Open the Jupyter notebook:
-```bash
-jupyter notebook 414Survey_Job_In_Degree_071122.ipynb
-```
-
 ## Results
 
 The analysis reveals the following key findings:
