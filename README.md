@@ -1,4 +1,4 @@
-# README for Job In Degree
+# Job In Degree
 
 ## Overview
 
