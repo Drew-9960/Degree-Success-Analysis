@@ -1,4 +1,4 @@
-# README for 414Survey_Job_In_Degree_071122.ipynb
+# README for 414Survey_Job_In_Degree
 
 ## Overview
 
